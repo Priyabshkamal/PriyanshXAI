@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Futuristic+AI+Engineer+%7C+Research+First+%7C+Production+Thinking;Generative+AI+%7C+Neural+Networks+%7C+Deep+Learning;Scaling+Intelligence+for+Tomorrow" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Priyabshkamal">
     <img src="https://img.shields.io/github/followers/PriyanshXAI?label=Follow&style=social" />
   </a>
