@@ -1,25 +1,30 @@
-<h1 align="center">👋 Hi, I'm Priyansh</h1>
-<h3 align="center">🤖 AI Engineer | Machine Learning | GenAI</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"/>
+</p>
+
+<h1 align="center">Priyansh</h1>
+<p align="center">
+  <b>Aspiring AI Engineer | Machine Learning & Deep Learning Specialist</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+Deep+Learning;GenAI+%7C+Computer+Vision+%7C+NLP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Artificial+Intelligence+Engineer;ML+%E2%80%A2+DL+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP;Building+the+Future+of+Intelligence;Scalable+AI+Solutions+in+Progress..." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🔬 Passionate about Artificial Intelligence
-- 🚀 Building AI-powered solutions
-- 🤖 Exploring GenAI, LLMs & Computer Vision
+## 🧬 Professional Profile
 
----
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00F7FF?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-00F7FF?style=for-the-badge&logo=pytorch)
-
----
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=PriyanshXAI&show_icons=true&theme=tokyonight" />
+```yaml
+identity:
+  name: Priyansh
+  role: AI Engineer in Training
+  status: Active Learning & Architecture
+  focus: [Generative AI, Neural Networks, Mathematical Optimization]
+  mission: Bridging the gap between raw data and actionable intelligence
