@@ -1,15 +1,16 @@
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="95"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
 </p>
 
-<h1 align="center">🚀 Priyansh</h1>
+<h1 align="center">⚡ PriyanshXAI ⚡</h1>
 
 <p align="center">
-  <b>🤖 Aspiring AI Engineer | ML • DL • Generative AI</b>
+  <b>🤖 AI Engineer in Training | ML • DL • Generative AI • Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer+in+Training;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Computer+Vision+%7C+NLP+%7C+Neural+Networks;Designing+Scalable+AI+Systems;Learning+%E2%86%92+Building+%E2%86%92+Optimizing..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+Engineer+in+Training;Deep+Learning+%7C+Generative+AI+%7C+LLMs;Computer+Vision+%7C+NLP+%7C+Neural+Systems;Research+Mindset+%2B+Production+Thinking;Designing+Scalable+Intelligence" />
 </p>
 
 <p align="center">
@@ -19,30 +20,30 @@
   <img src="https://komarev.com/ghpvc/?username=PriyanshXAI&color=00f7ff&style=flat-square" />
 </p>
 
----
+<hr/>
 
-## 🧬 Professional Profile 🧠
+<!-- ===================== PROFILE ===================== -->
+<h2>🧬 Professional Profile</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="320"/>
 </p>
 
 ```yaml
-🧑 identity:
-  👤 name: Priyansh
-  🧠 role: AI Engineer in Training
-  🔄 status: Actively Learning & Building
-  🎯 focus:
+👤 identity:
+  name: Priyansh
+  role: AI Engineer (In Training)
+  mindset: Research-first • System-level • Math-driven
+  focus:
     - 🤖 Machine Learning
     - 🧠 Deep Learning
     - 🧬 Generative AI
     - 🖼️ Computer Vision
-    - 💬 Natural Language Processing
-  🔍 interests:
-    - 📐 Mathematical Optimization
-    - 🧩 Neural Network Architecture
-    - 🗣️ Large Language Models
-    - ⚙️ AI System Design
-  🚀 mission: >
-    Transform raw data into actionable intelligence
-    by designing scalable, efficient, and ethical AI systems.
+    - 💬 NLP & LLMs
+  interests:
+    - 📐 Optimization & Probability
+    - 🧩 Model Architecture Design
+    - ⚙️ Scalable AI Systems
+  mission: >
+    Build intelligent systems that convert data into decisions,
+    models into products, and research into real-world impact.
