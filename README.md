@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https:[//github.com/PriyanshXAI](https://github.com/Priyabshkamal)">
-    <img src="https://img.shields.io/github/followers/PriyanshXAI?label=Follow&style=social" />
+  <a href="https://github.com/Priyabshkamal">
+    <img src="https://img.shields.io/github/followers/Priyabshkamal?label=Follow&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PriyanshXAI&color=00f7ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Priyabshkamal&color=00f7ff&style=flat-square" />
 </p>
 
 <hr/>
