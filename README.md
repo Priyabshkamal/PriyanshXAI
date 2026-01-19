@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PriyanshXAI">
+  <a href="https://github.com/Priyanshkamal">
     <img src="https://img.shields.io/github/followers/PriyanshXAI?label=Follow&style=social" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=PriyanshXAI&color=00f7ff&style=flat-square" />
