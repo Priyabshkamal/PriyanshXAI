@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priyanshkamal">
+  <a href="https://github.com/Priyabshkamal">
     <img src="https://img.shields.io/github/followers/PriyanshXAI?label=Follow&style=social" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=PriyanshXAI&color=00f7ff&style=flat-square" />
@@ -24,7 +24,7 @@
 
 ```yaml
 identity:
-  name: Priyansh
+  name: Priyansh Kamal
   role: AI Engineer in Training
   mindset: Research-first, System-level, Math-driven
   focus:
